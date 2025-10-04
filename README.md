@@ -30,7 +30,7 @@ All rights reserved © 2025 Afaq Rafique
 
 💬 **Feedback**
 If anything wrong, please feel free to comment or open an issue in this repository.  
-Your feedback helps improve this project! 🙌  
+Your feedback helps improve this Sheet! 🙌  
 
 ---
 
