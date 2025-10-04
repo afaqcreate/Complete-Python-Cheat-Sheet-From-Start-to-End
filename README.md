@@ -10,7 +10,7 @@ This Google Sheet is **free to view for educational purposes only**.
 Copying, redistribution, or resale is **strictly prohibited**.  
 All rights reserved © 2025 Afaq Rafique  
 
-🔗 **View Sheet:** [Click here to open the Google Sheet]([https://docs.google.com/spreadsheets/d/your-sheet-id/view](https://docs.google.com/spreadsheets/d/1Gi-SCeHu2yrZZkzKPaGTwFt6kqlFVzyCRg9Q8UAQK7I/edit?usp=sharing))
+🔗 **View Sheet:** [Click here to open the Google Sheet](https://docs.google.com/spreadsheets/d/1Gi-SCeHu2yrZZkzKPaGTwFt6kqlFVzyCRg9Q8UAQK7I/edit?gid=0#gid=0)
 
 ---
 
